@@ -183,7 +183,7 @@
 		(property ki_fp_filters "ESP32?WROOM?32D*")
 		(path "/e787778b-8ccd-4914-8413-0dd07b04b239")
 		(sheetname "/")
-		(sheetfile "weather station rev 1.2.kicad_sch")
+		(sheetfile "WeatherStation_v1.2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1327,7 +1327,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/ef8ca26c-7e34-43fa-bacd-3e9d43a5f912")
 		(sheetname "/")
-		(sheetfile "weather station rev 1.2.kicad_sch")
+		(sheetfile "WeatherStation_v1.2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1579,7 +1579,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/92909b87-4ece-405e-9543-0b2603c43433")
 		(sheetname "/")
-		(sheetfile "weather station rev 1.2.kicad_sch")
+		(sheetfile "WeatherStation_v1.2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -3010,7 +3010,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/edd583ab-5cdf-45f6-ad61-be9a03eaf3e3")
 		(sheetname "/")
-		(sheetfile "weather station rev 1.2.kicad_sch")
+		(sheetfile "WeatherStation_v1.2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -3254,7 +3254,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/a22ff78f-e317-4a21-a6df-e81337f04d5f")
 		(sheetname "/")
-		(sheetfile "weather station rev 1.2.kicad_sch")
+		(sheetfile "WeatherStation_v1.2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -4638,7 +4638,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/5a172be8-701f-4fa8-b51b-47d04a30f710")
 		(sheetname "/")
-		(sheetfile "weather station rev 1.2.kicad_sch")
+		(sheetfile "WeatherStation_v1.2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -4912,7 +4912,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/c76bb673-2c24-4ff9-8c9a-8bde621c3fb1")
 		(sheetname "/")
-		(sheetfile "weather station rev 1.2.kicad_sch")
+		(sheetfile "WeatherStation_v1.2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -5164,7 +5164,7 @@
 		(property ki_fp_filters "TO?220*")
 		(path "/ca47fc88-41bc-4cdb-beed-e786800d4580")
 		(sheetname "/")
-		(sheetfile "weather station rev 1.2.kicad_sch")
+		(sheetfile "WeatherStation_v1.2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -5417,7 +5417,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/e039538f-98e8-4356-9163-62c874e55b0c")
 		(sheetname "/")
-		(sheetfile "weather station rev 1.2.kicad_sch")
+		(sheetfile "WeatherStation_v1.2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -5680,7 +5680,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/3829ccb1-7051-4a51-8ab8-c3683ecc1bf8")
 		(sheetname "/")
-		(sheetfile "weather station rev 1.2.kicad_sch")
+		(sheetfile "WeatherStation_v1.2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -5935,7 +5935,7 @@
 		(property ki_fp_filters "SOT?223*TabPin2*")
 		(path "/3eb2b98a-a9be-46c6-80c3-ea2f2fc5b518")
 		(sheetname "/")
-		(sheetfile "weather station rev 1.2.kicad_sch")
+		(sheetfile "WeatherStation_v1.2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -6207,7 +6207,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/804fb7ad-ce0a-41a7-ae65-44d1868c5abc")
 		(sheetname "/")
-		(sheetfile "weather station rev 1.2.kicad_sch")
+		(sheetfile "WeatherStation_v1.2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -6423,7 +6423,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/67f57ae1-2be9-4f6c-b9f3-3b6b27460e87")
 		(sheetname "/")
-		(sheetfile "weather station rev 1.2.kicad_sch")
+		(sheetfile "WeatherStation_v1.2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -6643,7 +6643,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/e89d50f0-5c47-462e-9e24-b20805d02099")
 		(sheetname "/")
-		(sheetfile "weather station rev 1.2.kicad_sch")
+		(sheetfile "WeatherStation_v1.2.kicad_sch")
 		(units
 			(unit
 				(name "A")

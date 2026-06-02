@@ -485,7 +485,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "weather station rev 1.2.kicad_pro",
+    "filename": "WeatherStation_v1.2.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -640,8 +640,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "weather station rev 1.2.kicad_sch",
-        "name": "weather station rev 1.2",
+        "filename": "WeatherStation_v1.2.kicad_sch",
+        "name": "WeatherStation_v1.2",
         "uuid": "da9064f8-ea8a-43de-a04d-8b30966297c7"
       }
     ],
@@ -651,7 +651,7 @@
   "sheets": [
     [
       "da9064f8-ea8a-43de-a04d-8b30966297c7",
-      "weather station rev 1.2"
+      "WeatherStation_v1.2"
     ]
   ],
   "text_variables": {},

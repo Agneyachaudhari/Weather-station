@@ -3894,7 +3894,7 @@
 			(uuid "455247b4-9f95-445c-816f-a179ee475e5b")
 		)
 		(instances
-			(project "weather station rev 1.2"
+			(project "WeatherStation_v1.2"
 				(path "/da9064f8-ea8a-43de-a04d-8b30966297c7"
 					(reference "#PWR011")
 					(unit 1)
@@ -3973,7 +3973,7 @@
 			(uuid "9e287471-8414-4048-9216-5c3e11f69318")
 		)
 		(instances
-			(project "weather station rev 1.2"
+			(project "WeatherStation_v1.2"
 				(path "/da9064f8-ea8a-43de-a04d-8b30966297c7"
 					(reference "#PWR03")
 					(unit 1)
@@ -4052,7 +4052,7 @@
 			(uuid "5c7c3725-ab7e-437f-be78-022eb369d89c")
 		)
 		(instances
-			(project "weather station rev 1.2"
+			(project "WeatherStation_v1.2"
 				(path "/da9064f8-ea8a-43de-a04d-8b30966297c7"
 					(reference "#PWR018")
 					(unit 1)
@@ -4131,7 +4131,7 @@
 			(uuid "5c3a5524-7bd5-49ac-91e6-1ed730a1c9df")
 		)
 		(instances
-			(project "weather station rev 1.2"
+			(project "WeatherStation_v1.2"
 				(path "/da9064f8-ea8a-43de-a04d-8b30966297c7"
 					(reference "#PWR019")
 					(unit 1)
@@ -4210,7 +4210,7 @@
 			(uuid "bebd6ab9-ff59-43b3-9719-70c8e2e91c52")
 		)
 		(instances
-			(project "weather station rev 1.2"
+			(project "WeatherStation_v1.2"
 				(path "/da9064f8-ea8a-43de-a04d-8b30966297c7"
 					(reference "#PWR022")
 					(unit 1)
@@ -4296,7 +4296,7 @@
 			(uuid "dab679f9-68eb-40a8-9c6a-60e7f085ab24")
 		)
 		(instances
-			(project "weather station rev 1.2"
+			(project "WeatherStation_v1.2"
 				(path "/da9064f8-ea8a-43de-a04d-8b30966297c7"
 					(reference "J5")
 					(unit 1)
@@ -4373,7 +4373,7 @@
 			(uuid "9a653a34-c9c6-44d6-ae80-2d9994c9d8d1")
 		)
 		(instances
-			(project "weather station rev 1.2"
+			(project "WeatherStation_v1.2"
 				(path "/da9064f8-ea8a-43de-a04d-8b30966297c7"
 					(reference "#PWR021")
 					(unit 1)
@@ -4458,7 +4458,7 @@
 			(uuid "c08acdc9-1379-4f50-a1ec-1588095a1aef")
 		)
 		(instances
-			(project "weather station rev 1.2"
+			(project "WeatherStation_v1.2"
 				(path "/da9064f8-ea8a-43de-a04d-8b30966297c7"
 					(reference "U2")
 					(unit 1)
@@ -4537,7 +4537,7 @@
 			(uuid "a3aaf65b-dd3c-4605-99ac-871fe415ffa4")
 		)
 		(instances
-			(project "weather station rev 1.2"
+			(project "WeatherStation_v1.2"
 				(path "/da9064f8-ea8a-43de-a04d-8b30966297c7"
 					(reference "#PWR015")
 					(unit 1)
@@ -4614,7 +4614,7 @@
 			(uuid "b1a9f84c-c855-4d52-96fb-619faa73d1d0")
 		)
 		(instances
-			(project "weather station rev 1.2"
+			(project "WeatherStation_v1.2"
 				(path "/da9064f8-ea8a-43de-a04d-8b30966297c7"
 					(reference "#PWR02")
 					(unit 1)
@@ -4703,7 +4703,7 @@
 			(uuid "8941d088-c3d5-40dd-8b06-e3870f68b911")
 		)
 		(instances
-			(project "weather station rev 1.2"
+			(project "WeatherStation_v1.2"
 				(path "/da9064f8-ea8a-43de-a04d-8b30966297c7"
 					(reference "J3")
 					(unit 1)
@@ -4781,7 +4781,7 @@
 			(uuid "3ba8a0b6-72eb-40b0-9ada-79cf0f587bc8")
 		)
 		(instances
-			(project "weather station rev 1.2"
+			(project "WeatherStation_v1.2"
 				(path "/da9064f8-ea8a-43de-a04d-8b30966297c7"
 					(reference "#PWR014")
 					(unit 1)
@@ -4858,7 +4858,7 @@
 			(uuid "9b5773b2-ec0a-4d71-bdc0-9009a20303b8")
 		)
 		(instances
-			(project "weather station rev 1.2"
+			(project "WeatherStation_v1.2"
 				(path "/da9064f8-ea8a-43de-a04d-8b30966297c7"
 					(reference "#PWR06")
 					(unit 1)
@@ -4937,7 +4937,7 @@
 			(uuid "6684606d-c11c-4a11-9596-3f9c974a5d26")
 		)
 		(instances
-			(project "weather station rev 1.2"
+			(project "WeatherStation_v1.2"
 				(path "/da9064f8-ea8a-43de-a04d-8b30966297c7"
 					(reference "R1")
 					(unit 1)
@@ -5016,7 +5016,7 @@
 			(uuid "8c5771f0-8937-43c4-9675-2a2dcf4a28cf")
 		)
 		(instances
-			(project "weather station rev 1.2"
+			(project "WeatherStation_v1.2"
 				(path "/da9064f8-ea8a-43de-a04d-8b30966297c7"
 					(reference "#PWR017")
 					(unit 1)
@@ -5093,7 +5093,7 @@
 			(uuid "4d71a05e-d526-4a50-9878-5235c5b666e3")
 		)
 		(instances
-			(project "weather station rev 1.2"
+			(project "WeatherStation_v1.2"
 				(path "/da9064f8-ea8a-43de-a04d-8b30966297c7"
 					(reference "#PWR01")
 					(unit 1)
@@ -5172,7 +5172,7 @@
 			(uuid "a1539ed7-0b22-4b8a-8495-968e8756634b")
 		)
 		(instances
-			(project "weather station rev 1.2"
+			(project "WeatherStation_v1.2"
 				(path "/da9064f8-ea8a-43de-a04d-8b30966297c7"
 					(reference "#PWR07")
 					(unit 1)
@@ -5251,7 +5251,7 @@
 			(uuid "b335f206-4571-45ee-9b29-e7e68bf13763")
 		)
 		(instances
-			(project "weather station rev 1.2"
+			(project "WeatherStation_v1.2"
 				(path "/da9064f8-ea8a-43de-a04d-8b30966297c7"
 					(reference "#PWR013")
 					(unit 1)
@@ -5330,7 +5330,7 @@
 			(uuid "fa7bdeb2-8952-4981-8cdd-22570946fc53")
 		)
 		(instances
-			(project "weather station rev 1.2"
+			(project "WeatherStation_v1.2"
 				(path "/da9064f8-ea8a-43de-a04d-8b30966297c7"
 					(reference "#FLG02")
 					(unit 1)
@@ -5408,7 +5408,7 @@
 			(uuid "7b11a7c9-b122-47ff-87dd-faf3d2010105")
 		)
 		(instances
-			(project "weather station rev 1.2"
+			(project "WeatherStation_v1.2"
 				(path "/da9064f8-ea8a-43de-a04d-8b30966297c7"
 					(reference "#PWR04")
 					(unit 1)
@@ -5485,7 +5485,7 @@
 			(uuid "0bbd7cd7-d9a7-43c1-bc74-f43698bbde23")
 		)
 		(instances
-			(project "weather station rev 1.2"
+			(project "WeatherStation_v1.2"
 				(path "/da9064f8-ea8a-43de-a04d-8b30966297c7"
 					(reference "#PWR05")
 					(unit 1)
@@ -5567,7 +5567,7 @@
 			(uuid "83526b16-72a7-4795-aaa2-31e995dc239f")
 		)
 		(instances
-			(project "weather station rev 1.2"
+			(project "WeatherStation_v1.2"
 				(path "/da9064f8-ea8a-43de-a04d-8b30966297c7"
 					(reference "J7")
 					(unit 1)
@@ -5645,7 +5645,7 @@
 			(uuid "14ddf172-bbb7-4144-b0d6-e5878740411a")
 		)
 		(instances
-			(project "weather station rev 1.2"
+			(project "WeatherStation_v1.2"
 				(path "/da9064f8-ea8a-43de-a04d-8b30966297c7"
 					(reference "#PWR012")
 					(unit 1)
@@ -5730,7 +5730,7 @@
 			(uuid "702d24d9-e954-47ba-8ce5-94fdc5a273d2")
 		)
 		(instances
-			(project "weather station rev 1.2"
+			(project "WeatherStation_v1.2"
 				(path "/da9064f8-ea8a-43de-a04d-8b30966297c7"
 					(reference "J2")
 					(unit 1)
@@ -5809,7 +5809,7 @@
 			(uuid "ca922c73-0334-4c54-82e0-3240d0455b43")
 		)
 		(instances
-			(project "weather station rev 1.2"
+			(project "WeatherStation_v1.2"
 				(path "/da9064f8-ea8a-43de-a04d-8b30966297c7"
 					(reference "#PWR08")
 					(unit 1)
@@ -5889,7 +5889,7 @@
 			(uuid "a3915290-dfa4-44a6-bd8b-80661e4a80bf")
 		)
 		(instances
-			(project "weather station rev 1.2"
+			(project "WeatherStation_v1.2"
 				(path "/da9064f8-ea8a-43de-a04d-8b30966297c7"
 					(reference "J8")
 					(unit 1)
@@ -5968,7 +5968,7 @@
 			(uuid "ce75fea3-b835-4af1-b97e-48805e121307")
 		)
 		(instances
-			(project "weather station rev 1.2"
+			(project "WeatherStation_v1.2"
 				(path "/da9064f8-ea8a-43de-a04d-8b30966297c7"
 					(reference "#PWR020")
 					(unit 1)
@@ -6046,7 +6046,7 @@
 			(uuid "0f49b867-e412-43d1-8a07-d905958e87ef")
 		)
 		(instances
-			(project "weather station rev 1.2"
+			(project "WeatherStation_v1.2"
 				(path "/da9064f8-ea8a-43de-a04d-8b30966297c7"
 					(reference "#PWR010")
 					(unit 1)
@@ -6125,7 +6125,7 @@
 			(uuid "c4cd621a-1b2c-43cf-b96f-a9c457939705")
 		)
 		(instances
-			(project "weather station rev 1.2"
+			(project "WeatherStation_v1.2"
 				(path "/da9064f8-ea8a-43de-a04d-8b30966297c7"
 					(reference "#FLG01")
 					(unit 1)
@@ -6210,7 +6210,7 @@
 			(uuid "bc668565-7576-43e1-8461-9585c9c52dba")
 		)
 		(instances
-			(project "weather station rev 1.2"
+			(project "WeatherStation_v1.2"
 				(path "/da9064f8-ea8a-43de-a04d-8b30966297c7"
 					(reference "J6")
 					(unit 1)
@@ -6298,7 +6298,7 @@
 			(uuid "157c7b6c-2f27-44b3-b3ed-e5684b288fc8")
 		)
 		(instances
-			(project "weather station rev 1.2"
+			(project "WeatherStation_v1.2"
 				(path "/da9064f8-ea8a-43de-a04d-8b30966297c7"
 					(reference "Q1")
 					(unit 1)
@@ -6384,7 +6384,7 @@
 			(uuid "70fced3a-2d74-43b2-b8c4-c15a6f63add5")
 		)
 		(instances
-			(project "weather station rev 1.2"
+			(project "WeatherStation_v1.2"
 				(path "/da9064f8-ea8a-43de-a04d-8b30966297c7"
 					(reference "J4")
 					(unit 1)
@@ -6461,7 +6461,7 @@
 			(uuid "3092796d-824a-47c6-a8a6-560f97b5f356")
 		)
 		(instances
-			(project "weather station rev 1.2"
+			(project "WeatherStation_v1.2"
 				(path "/da9064f8-ea8a-43de-a04d-8b30966297c7"
 					(reference "#PWR016")
 					(unit 1)
@@ -6653,7 +6653,7 @@
 			(uuid "027570f5-8c8d-4b9e-933f-cd8d26778a10")
 		)
 		(instances
-			(project "weather station rev 1.2"
+			(project "WeatherStation_v1.2"
 				(path "/da9064f8-ea8a-43de-a04d-8b30966297c7"
 					(reference "U1")
 					(unit 1)
@@ -6732,7 +6732,7 @@
 			(uuid "3a684e63-7da7-41c1-a819-83fc5197b659")
 		)
 		(instances
-			(project "weather station rev 1.2"
+			(project "WeatherStation_v1.2"
 				(path "/da9064f8-ea8a-43de-a04d-8b30966297c7"
 					(reference "R2")
 					(unit 1)
@@ -6809,7 +6809,7 @@
 			(uuid "d8c683dc-80f1-42aa-9402-d9e2b5dba7d9")
 		)
 		(instances
-			(project "weather station rev 1.2"
+			(project "WeatherStation_v1.2"
 				(path "/da9064f8-ea8a-43de-a04d-8b30966297c7"
 					(reference "#PWR023")
 					(unit 1)
@@ -6893,7 +6893,7 @@
 			(uuid "4c761532-9b54-408c-837d-5d7948fac2df")
 		)
 		(instances
-			(project "weather station rev 1.2"
+			(project "WeatherStation_v1.2"
 				(path "/da9064f8-ea8a-43de-a04d-8b30966297c7"
 					(reference "J9")
 					(unit 1)
@@ -6976,7 +6976,7 @@
 			(uuid "3f00fa40-7be7-4420-ba73-f83d3bfde8e4")
 		)
 		(instances
-			(project "weather station rev 1.2"
+			(project "WeatherStation_v1.2"
 				(path "/da9064f8-ea8a-43de-a04d-8b30966297c7"
 					(reference "J1")
 					(unit 1)
@@ -7055,7 +7055,7 @@
 			(uuid "14850be6-382c-458a-a168-03885d09b74f")
 		)
 		(instances
-			(project "weather station rev 1.2"
+			(project "WeatherStation_v1.2"
 				(path "/da9064f8-ea8a-43de-a04d-8b30966297c7"
 					(reference "#PWR09")
 					(unit 1)

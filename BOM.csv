@@ -1,0 +1,14 @@
+Qty,Component,Description,Notes
+1,ESP32-WROOM-32E,Main mcu, none
+1,AMS1117-3.3,3.3V voltage regulator,for 3.3v for sensors and mcu
+10,10k 1/4W Resistor,Pull-up/pull-down resistors,Minimum pack size
+1,DHT11 module,Temperature and humidity sensor,will upgrade to an DHT-11
+1,BH1750 GY-302 module,Ambient light sensor,none
+1,PMS5303,Particulate matter (PM2.5) sensor,Air quality
+1,IRLZ44N MOSFET,N-channel logic-level MOSFET,Load switching of PMS5303
+1,18650 dual battery holder,Holds 2x 18650 cells,none
+1,Samsung INR18650-25R 2500mAh,Rechargeable Li-Ion battery,battery backup for when there is no solar
+1,Solar power manager 5V,MPPT / solar charging module,none
+2,6V 3W solar panel,Photovoltaic panel,none
+1,IP65 project box,Weatherproof enclosure,none
+5,Custom PCB,Designed PCB rev 1.2,none
